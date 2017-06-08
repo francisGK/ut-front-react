@@ -1,3 +1,8 @@
+<a name="9.2.4"></a>
+## [9.2.4](https://github.com/softwaregroup-bg/ut-front-react/compare/v9.2.2...v9.2.4) (2017-06-08)
+
+
+
 <a name="9.2.3"></a>
 ## [9.2.3](https://github.com/softwaregroup-bg/ut-front-react/compare/v9.2.2...v9.2.3) (2017-06-07)
 
