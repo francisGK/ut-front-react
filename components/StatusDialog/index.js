@@ -8,7 +8,7 @@ const StatusDialog = ({ status, onClose }) => {
     let isOpen = status.size > 0;
     let statusString = status.get('status');
     if (statusString !== 'pending') {
-        actions.push(<FlatButton label='Ok' onTouchTap={onClose} keyboardFocused={true} />);
+        actions.push(<FlatButton label='Ok' onTouchTap={onClose} keyboardFocused />);
     }
 
     let upperCasedStatus = statusString ? statusString.toUpperCase() : '';
